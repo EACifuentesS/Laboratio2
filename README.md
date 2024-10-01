@@ -62,20 +62,8 @@ El proyecto sigue una arquitectura en N capas para facilitar la escalabilidad y 
   - Visual Studio
   - SQL Server Management Studio
 
-## Instalación
-
-1. Clonar el repositorio desde GitHub.
-2. Configurar la conexión a la base de datos en el archivo `appsettings.json`.
-3. Ejecutar las migraciones de Entity Framework (si aplicable) para crear la base de datos o crear las tablas manualmente en SQL Server.
-4. Compilar y ejecutar la aplicación desde Visual Studio.
-
 ## Uso del Sistema
 
 - Acceder a la aplicación web para ver las habitaciones, salones y realizar reservaciones.
 - Utilizar las opciones del calendario para visualizar el estado de las habitaciones y salones por fechas.
 - Generar reportes desde el panel de administración.
-
-## Contacto
-
-Este proyecto fue desarrollado como parte del curso de **Programación Web** en la **Universidad Mesoamericana**. Para más información o consultas, contactar con el desarrollador.
-
