@@ -1,0 +1,17 @@
+C:\Users\erick\source\repos\ProyHotel\ProyHotel.DAL\bin\Debug\net6.0\ProyHotel.DAL.deps.json
+C:\Users\erick\source\repos\ProyHotel\ProyHotel.DAL\bin\Debug\net6.0\ProyHotel.DAL.dll
+C:\Users\erick\source\repos\ProyHotel\ProyHotel.DAL\bin\Debug\net6.0\ProyHotel.DAL.pdb
+C:\Users\erick\source\repos\ProyHotel\ProyHotel.DAL\obj\Debug\net6.0\ProyHotel.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\source\repos\ProyHotel\ProyHotel.DAL\obj\Debug\net6.0\ProyHotel.DAL.AssemblyInfoInputs.cache
+C:\Users\erick\source\repos\ProyHotel\ProyHotel.DAL\obj\Debug\net6.0\ProyHotel.DAL.AssemblyInfo.cs
+C:\Users\erick\source\repos\ProyHotel\ProyHotel.DAL\obj\Debug\net6.0\ProyHotel.DAL.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\ProyHotel\ProyHotel.DAL\obj\Debug\net6.0\ProyHotel.DAL.dll
+C:\Users\erick\source\repos\ProyHotel\ProyHotel.DAL\obj\Debug\net6.0\refint\ProyHotel.DAL.dll
+C:\Users\erick\source\repos\ProyHotel\ProyHotel.DAL\obj\Debug\net6.0\ProyHotel.DAL.pdb
+C:\Users\erick\source\repos\ProyHotel\ProyHotel.DAL\obj\Debug\net6.0\ref\ProyHotel.DAL.dll
+C:\Users\erick\source\repos\ProyHotel\ProyHotel.DAL\bin\Debug\net6.0\ProyHotel.DAL.runtimeconfig.json
+C:\Users\erick\source\repos\ProyHotel\ProyHotel.DAL\obj\Debug\net6.0\ProyHotel.DAL.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\ProyHotel\ProyHotel.DAL\obj\Debug\net6.0\ProyHotel.DAL.genruntimeconfig.cache
+C:\Users\erick\source\repos\ProyHotel\ProyHotel.DAL\bin\Debug\net6.0\ProyHotel.Models.dll
+C:\Users\erick\source\repos\ProyHotel\ProyHotel.DAL\bin\Debug\net6.0\ProyHotel.Models.pdb
+C:\Users\erick\source\repos\ProyHotel\ProyHotel.DAL\obj\Debug\net6.0\ProyHote.E9FC0935.Up2Date

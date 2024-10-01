@@ -1,0 +1,11 @@
+C:\Users\erick\source\repos\ProyHotel\ProyHotel.Models\bin\Debug\net6.0\ProyHotel.Models.deps.json
+C:\Users\erick\source\repos\ProyHotel\ProyHotel.Models\bin\Debug\net6.0\ProyHotel.Models.dll
+C:\Users\erick\source\repos\ProyHotel\ProyHotel.Models\bin\Debug\net6.0\ProyHotel.Models.pdb
+C:\Users\erick\source\repos\ProyHotel\ProyHotel.Models\obj\Debug\net6.0\ProyHotel.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\source\repos\ProyHotel\ProyHotel.Models\obj\Debug\net6.0\ProyHotel.Models.AssemblyInfoInputs.cache
+C:\Users\erick\source\repos\ProyHotel\ProyHotel.Models\obj\Debug\net6.0\ProyHotel.Models.AssemblyInfo.cs
+C:\Users\erick\source\repos\ProyHotel\ProyHotel.Models\obj\Debug\net6.0\ProyHotel.Models.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\ProyHotel\ProyHotel.Models\obj\Debug\net6.0\ProyHotel.Models.dll
+C:\Users\erick\source\repos\ProyHotel\ProyHotel.Models\obj\Debug\net6.0\refint\ProyHotel.Models.dll
+C:\Users\erick\source\repos\ProyHotel\ProyHotel.Models\obj\Debug\net6.0\ProyHotel.Models.pdb
+C:\Users\erick\source\repos\ProyHotel\ProyHotel.Models\obj\Debug\net6.0\ref\ProyHotel.Models.dll
